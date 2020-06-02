@@ -11,8 +11,8 @@ If
           [1, 0, 1, 1],
           [1, 0, 1, 0],
           [1, 1, 1, 0],
-          [1, 1, 1, 0]]
-pathfinder(matrix, (0, 0), (0, 3))==7</pre>
+          [1, 1, 1, 0]]</pre>
+<pre>pathfinder(matrix, (0, 0), (0, 3))==7</pre>
 And If:
 <pre>matrix2 =  [
     [1, 1, 1, 0, 0, 1, 1, 1],
@@ -22,8 +22,8 @@ And If:
     [1, 0, 0, 0, 0, 1, 1, 1],
     [1, 0, 0, 1, 1, 0, 1, 0],
     [0, 0, 0, 1, 1, 0, 0, 1],
-    [1, 1, 1, 0, 1, 1, 0, 1]]
-pathfinder(matrix2, (2, 3), (3, 7))==7
+    [1, 1, 1, 0, 1, 1, 0, 1]]</pre>
+<pre>pathfinder(matrix2, (2, 3), (3, 7))==7
 pathfinder(matrix2, (0, 2), (8, 8)) raises an error.</pre>
 And for:
 <pre>matty= [
@@ -34,8 +34,8 @@ And for:
     [1, 0, 0, 0, 0, 0, 1, 0],
     [1, 0, 0, 1, 1, 0, 1, 1],
     [0, 0, 0, 1, 1, 1, 0, 1],
-    [1, 1, 1, 1, 0, 1, 1, 1]]
-pathfinder(matty, (0, 0), (7, 0))
+    [1, 1, 1, 1, 0, 1, 1, 1]]</pre>
+<pre>pathfinder(matty, (0, 0), (7, 0))
 returns 23</pre>
 ### Note:
 <pre>No inbuilt module should be used 
