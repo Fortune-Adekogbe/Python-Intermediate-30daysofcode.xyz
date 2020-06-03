@@ -36,7 +36,8 @@ where x,y,and z have their usual meanings
 <br>
 (-): Given two vector objects A  and B  the result of A-B should be a new vector object with x,y and z value <br>equal to that of A –B.
 <br>
-(*): Given a vector object and a scalar(integer)  it should return a vector object with x,y and equal to the scalar  multiplied by the x,y and z coordinates of the original vector
+(*): Given a vector object and a scalar(integer)  it should return a vector object with x,y and z
+equal to the scalar  multiplied by the x,y and z coordinates of the original vector
 
 Given 2 vector objects It should return the scalar product of the vectors
 
