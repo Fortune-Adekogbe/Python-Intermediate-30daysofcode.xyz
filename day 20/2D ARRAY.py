@@ -83,26 +83,3 @@ def rotate(arr):
         rot_line(arr,start,end)
         start+=1
         end-=1
-
-'''
-
-        
-def printMat(arr):
-    for i in arr:
-        print(i)
-
-for i in range(97,97+5):
-    eval('printMat(eval(chr(i)))')
-    print()
-    eval('rotate(eval(chr(i)))')
-    eval('printMat(eval(chr(i)))')
-    print()
-
-
-printMat(e)
-print()
-rotate(e)
-printMat(e)
-'''
-
-
