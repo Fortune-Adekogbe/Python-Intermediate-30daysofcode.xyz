@@ -8,7 +8,7 @@ For example:
 given order([100, 4, 200, 1, 3, 2]) returns (4,[100,200])<br><br> where the longest consecutive elements sequence are [1,2,3,4].
 </pre>
 
-Note:
-•Inbuilt modules are not allowed.
-•Only AssertionErrors should be raised if need be.
-•Be as efficient as possible.
+## Note:
+•Inbuilt modules are not allowed.<br>
+•Only AssertionErrors should be raised if need be.<br>
+•Be as efficient as possible.<br>
