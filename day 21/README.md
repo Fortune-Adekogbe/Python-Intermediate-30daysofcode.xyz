@@ -10,9 +10,7 @@ At the end, return the modified image array.
 
 Example:
 
-1.
-
-image =[[1, 2, 1],
+1.image =[[1, 2, 1],
 [2, 1, 1],
 [1, 2, 1]]
 
@@ -22,8 +20,7 @@ overflow(image, ( 1,1), 3, 1) returns
 [1, 2, 3]]
 
 
-2.
-image =
+2.image =
 [2, 2, 2, 1, 3, 2],
 [1, 1, 2, 1, 2, 3],
 [2, 2, 2, 1, 2, 1],
@@ -40,8 +37,7 @@ overflow(image, (0,0), 4, 2) returns:
 [4, 1, 4, 1, 1, 2]]
 
 
-3.
-image= [
+3.image= [
 [5, 5, 6, 6, 5, 3, 2, 0],
 [5, 5, 6, 6, 5, 3, 2, 0],
 [5, 5, 6, 6, 5, 3, 2, 0],
