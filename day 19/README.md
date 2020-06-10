@@ -1,4 +1,4 @@
-# Sorted IndEx
+# Sorted Index
  
  
 ### Task 1: Insertion Sort
