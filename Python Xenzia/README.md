@@ -1,6 +1,8 @@
 # Python Xenzia
 
-A Task set for the Python Intermediate track of the 30DaysofCode Cohort 2.
+Official Solution to a task set for the Python Intermediate track of the 30DaysofCode Cohort 2.
+
+## Question
 
 
 As Pythonistas, how better to end this beautiful challenge than to make a snake game?
@@ -24,4 +26,3 @@ Yes, the game should be able to restart without re-running the app.
 A map.txt file set for a (640, 480) display can be seen as a file in this repo. Also images for the wall, snake and berry are included. You can decide to use these or not.
 
 #Goodluck
-#Live long as prosper.
