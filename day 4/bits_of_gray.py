@@ -3,7 +3,7 @@ def bits_of_gray(n: int)->list:
   This function returns the corresponding gray code for a specified number of bits.
   """
   try:
-    assert type(n)==int,"Invalid input"
+    assert type(n)==int and n > 0,"Invalid input"
   except AssertionError as e:
     return e
   if n==1:
